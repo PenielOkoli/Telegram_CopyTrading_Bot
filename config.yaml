@@ -1,0 +1,11 @@
+default_leverage: 10
+default_risk: 5.0
+max_leverage: 50
+max_risk: 10.0
+users:
+  '1960045595':
+    api_key: 4B4DM7HM1u60y17U6V
+    api_secret: TbQeGa7h5IYcQBjk6RlcfzKmPLle4tXAXCRc
+    auto_trade: true
+    leverage: 10
+    risk: 1.0
